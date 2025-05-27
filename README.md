@@ -1,2 +1,0 @@
-# floux
-Final python project
